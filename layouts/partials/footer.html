@@ -1,0 +1,10 @@
+<div class="footer">
+  {{ $title := "deadcafe.me" }}
+
+  <div id="deadcafe-widget">
+    {{- range $index, $element := split $title "" -}}
+      <div class="deadcafe-letter" id="deadcafe-letter-{{ add $index 1 }}">{{ $element }}</div>
+    {{- end -}}
+  </div>
+</div>
+<script src="/js/deadcafe-widget.js"></script>
