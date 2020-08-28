@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>deadcafe.me</title>
+  <link rel="stylesheet" href="/css/deadcafe.css">
+  <link rel="stylesheet" href="/css/entrance.css">
+</head>
+<body>
+  {{- $title := "404: page not found" -}}
+  <div id="deadcafe-widget">
+    {{- range $index, $element := split $title "" -}}
+      <div class="deadcafe-letter">{{ $element }}</div>
+    {{- end -}}
+    <div id="deadcafe-description">(⊃｡•́_•̀｡)⊃</div>
+  </div>
+
+  <script src="js/deadcafe-widget.js"></script>
+</body>
+</html>
