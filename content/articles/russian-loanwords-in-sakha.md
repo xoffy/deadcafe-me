@@ -1,12 +1,12 @@
 ---
 title: "Russian Loanwords in Sakha"
 date: 2020-08-20T03:33:32+09:00
+toc: true
+intro: Russian language has a huge influence over the native languages of
+       Russia for last few centuries. Yakut/Sakha is not an exception.
 ---
 
-Russian language has a huge influence over the native languages of Russia
-for last few centuries. Yakut/Sakha is not an exception.
-
-Here is a list of some Russian loanwords in Yakut/Sakha language.
+Here is a list of some Russian loanwords found in Yakut/Sakha language.
 
 Basically, you can use any Russian word in Yakut, since 99.9% of Yakuts who
 speak Yakut also can speak Russian, and they are often mix two languages.
@@ -23,7 +23,7 @@ I use my own romanization systems for both Yakut and Russian:
 + SSA (SSA Saqa Alpábyta) for Yakut/Sakha;
 + RRR (Revised Romanization of Russian) for Russian.
 
-## Law and Politics
+## Law and Politics {#politics}
 
 | Sakha | Russian | Meaning in Sakha | Notes |
 |:------|:--------|:-----------------|:------|
@@ -50,7 +50,7 @@ I use my own romanization systems for both Yakut and Russian:
 | сэбиэт (`SSA`: sebiet) | совет (`RRR`: sovét) | Soviet | Adjective for Soviet is _сэбиэскэй_ (sebieskej), e. g. _Sebieskej bylás_ — The Soviet Power, borrowed from _советский_ (sovétskï).
 | табаарыс (`SSA`: tabárys) | товарищ (`RRR`: továrisch) | friend, comrade | In modern Yakut this word means just _friend_.
 
-## Economy
+## Economy {#economy}
 
 | Sakha | Russian | Meaning in Sakha | Notes |
 |:------|:--------|:-----------------|:------|
@@ -65,7 +65,7 @@ I use my own romanization systems for both Yakut and Russian:
 | ырыынак (`SSA`: yrýnak) | рынок (`RRR`: rýnok) | market |
 | экэниэмикэ (`SSA`: ekeniemike) | экономика (`RRR`: ekonómika) | economics | Also means _economy_. |
 
-## Geography
+## Geography {#geography}
 
 | Sakha | Russian | Meaning in Sakha | Notes |
 |:------|:--------|:-----------------|:------|
@@ -79,7 +79,7 @@ I use my own romanization systems for both Yakut and Russian:
 | уобалас (`SSA`: uobalas) | область (`RRR`: óblastʹ) | ? | _область_ is an administrative division in Russia.
 | уулусса (`SSA`: úlussa) | улица (`RRR`: úlitsa) | street |
 
-## Media
+## Media {#media}
 
 | Sakha | Russian | Meaning in Sakha | Notes |
 |:------|:--------|:-----------------|:------|
@@ -89,7 +89,7 @@ I use my own romanization systems for both Yakut and Russian:
 | хаартыска (`SSA`: qártyska) | карточка (`RRR`: kártochka) | photo | _карточка_ means _little card_ in Russian. |
 | хаһыат (`SSA`: qahyat) | газета (`RRR`: gazéta) | newspaper |
 
-## Transportation
+## Transportation {#transport}
 
 | Sakha | Russian | Meaning in Sakha | Notes |
 |:------|:--------|:-----------------|:------|
@@ -103,7 +103,7 @@ I use my own romanization systems for both Yakut and Russian:
 | суоппар (`SSA`: suoppar) | шофёр (`Sci`: šofër) | driver | From French _chauffeur_. |
 | хараабыл (`SSA`: qarábyl) | корабль (`Sci`: korábl') | ship |
 
-## Furniture
+## Furniture {#furniture}
 
 | Sakha | Russian | Meaning in Sakha |
 |:------|:--------|:-----------------|
@@ -116,7 +116,7 @@ I use my own romanization systems for both Yakut and Russian:
 | устуул (`SSA`: ustúl) | стул (`RRR`: stul) | chair |
 | ыскаап (`SSA`: yskáp) | шкаф (`RRR`: shkáf) | cabinet |
 
-## Kitchenware
+## Kitchenware {#kitchen}
 
 | Sakha | Russian | Meaning in Sakha | Notes |
 |:------|:--------|:-----------------|:------|
@@ -133,7 +133,7 @@ I use my own romanization systems for both Yakut and Russian:
 | чааскы (`SSA`: tjásky) | чашка (`Sci`: čáška) | cup |
 | ыстакаан (`SSA`: ystakán) | стакан (`Sci`: stakán) | drinking glass |
 
-## Animals
+## Animals {#animals}
 
 | Sakha | Russian | Meaning in Sakha |
 |:------|:--------|:-----------------|
@@ -142,7 +142,7 @@ I use my own romanization systems for both Yakut and Russian:
 | куурусса (`SSA`: kúrussa) | курица (`RRR`: kúritsa) | hen |
 | сибиинньэ (`SSA`: sibínnje) | свинья (`RRR`: svinyá) | pig |
 
-## Clothes
+## Clothes {#clothes}
 
 | Sakha | Russian | Meaning in Sakha | Notes |
 |:------|:--------|:-----------------|:------|
@@ -160,7 +160,7 @@ I use my own romanization systems for both Yakut and Russian:
 | ырбаахы (`SSA`: yrbáqy) | рубаха (`RRR`: rubákha) | shirt |
 | ыстаан (`SSA`: ystán) | штаны (`RRR`: shtaný) | pants |
 
-## Religion
+## Religion {#religion}
 
 | Sakha | Russian | Meaning in Sakha | Notes |
 |:------|:--------|:-----------------|:------|
@@ -174,7 +174,7 @@ I use my own romanization systems for both Yakut and Russian:
 | сиэртибэ (`SSA`: siertibe) | жертва (`RRR`: zhértva) | victim |
 | ырай (`SSA`: yraj) | рай (`RRR`: ray) | heaven |
 
-## Politeness
+## Politeness {#politeness}
 
 | Sakha | Russian | Meaning in Sakha | Notes |
 |:------|:--------|:-----------------|:------|
@@ -184,7 +184,7 @@ I use my own romanization systems for both Yakut and Russian:
 | быраһаай (`SSA`: byraháj) | прощай (`RRR`: proscháy) | farewell |
 | дорообо (`SSA`: doróbo) | здорово (`RRR`: zdoróvo) | hello | _здорово_ is an informal way to say _здравствуй(те)_ (zdrávstvuj(te)). |
 
-## Timekeeping
+## Timekeeping {#time}
 
 | Sakha | Russian | Meaning in Sakha | Notes |
 |:------|:--------|:-----------------|:------|
@@ -204,23 +204,23 @@ I use my own romanization systems for both Yakut and Russian:
 | субуота (`SSA`: subuota) | суббота (`RRR`: subbóta) | saturday |
 | баскыһыанньа (`SSA`: baskyhyannja) | воскресенье (`RRR`: voskresénye) | sunday |
 
-## Extras
+## Extras {#extras}
 
-### Writing
+### Writing {#writing}
 
 | Sakha | Russian | Meaning in Sakha |
 |:------|:--------|:-----------------|
 | алпаабыт (`SSA`: alpábyt) | алфавит (`Sci`: alfavít) | alphabet |
 | буукуба (`SSA`: búkuba) | буква (`Sci`: búkva) | letter of the alphabet |
 
-### Education
+### Education {#education}
 
 | Sakha | Russian | Meaning in Sakha |
 |:------|:--------|:-----------------|
 | оскуола (`SSA`: oskuola) | школа (`Sci`: škola) | 
 | учуутал (`SSA`: utjútal) | учитель (`Sci`: učítel') | teacher |
 
-### Philosophy
+### Philosophy {#philosophy}
 
 | Sakha | Russian | Meaning in Sakha |
 |:------|:--------|:-----------------|
@@ -229,7 +229,7 @@ I use my own romanization systems for both Yakut and Russian:
 | чааһынай (`SSA`: tjáhynaj) | частный (`Sci`: částnyj) | private, particular |
 | эппиэт (`SSA`: eppiet) | ответ (`Sci`: otvét) | answer |
 
-### No category (yet)
+### No category (yet) {#no-category}
 
 | Sakha | Russian | Meaning in Sakha | Notes |
 |:------|:--------|:-----------------|:------|
